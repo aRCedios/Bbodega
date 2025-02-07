@@ -10,8 +10,8 @@
 ![Screenshot_2025-02-06-20-25-13-608_com arcedios bbodega](https://github.com/user-attachments/assets/bc6f07e4-c53c-4253-bbac-00064cbc09d9)
 ![image](https://github.com/user-attachments/assets/6bbdc8e0-10e3-45c6-b3aa-1eb0762eea48)
 ![Screenshot_2025-02-06-20-26-10-305_com arcedios bbodega](https://github.com/user-attachments/assets/c8b3a2af-ddaf-4d93-a8d2-dd0a8ab455ac)
-Me faltó hacer la parte de la lista y que saliera en elorden deseado pero no fuí capaz de hacerlo, mi idea era aprovechar el orden del treemap para que lo sdatos quedaran ordenados por sus llaves /n
-para despues sacarlos en un stack por su salida LIFO peor no pude. 
+Me faltó hacer la parte de la lista y que saliera en elorden deseado pero no fuí capaz de hacerlo, mi idea era aprovechar el orden del treemap para que los datos quedaran ordenados por sus llaves 
+para despues sacarlos en un stack por su salida LIFO pero no pude. 
 
 
 
